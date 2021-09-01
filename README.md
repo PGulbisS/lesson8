@@ -3,3 +3,4 @@
 
 pirma lekcija
 
+sakums visual studio
